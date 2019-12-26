@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://abrokwa.org/posts/about/</loc>
+    <lastmod>2019-12-25T17:54:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://abrokwa.org/</loc>
+    <lastmod>2019-12-25T17:54:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://abrokwa.org/posts/</loc>
+    <lastmod>2019-12-25T17:54:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://abrokwa.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://abrokwa.org/tags/</loc>
+  </url>
+  
+</urlset>
